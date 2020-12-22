@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+
+}
+
+h1{
+    text-align: center;
+}
+#homeButtons{
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -150px;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    color: white;
+    /* padding: 15px 15px; */
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
